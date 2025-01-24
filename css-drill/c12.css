@@ -1,0 +1,26 @@
+.div1{
+    height: 75vh;
+    width: 400px;
+    background-color: grey;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.div2{
+    height: 37.5vh;
+    width: 300px;
+    background-color: black;
+    position: absolute;
+    left: 250px;
+    top: 37.5vh;
+    color: white;
+}
+.div3{
+    height: 200px;
+    width: 200px;
+    background-color:skyblue;
+    position: absolute;
+    left: 180px;
+    top: 65vh;
+    color: black;   
+}

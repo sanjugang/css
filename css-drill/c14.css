@@ -1,0 +1,19 @@
+.div1{
+    height: 400px;
+    width: 400px;
+    position:absolute;
+    right: 0px;
+    top: 0px;
+    background-color: black;
+    color: white;
+}
+.div2{
+    height: 50%;
+    width: 50%;
+    position: absolute;
+    right: 200px;
+    top: 200px;
+    background-color: grey;
+
+
+}

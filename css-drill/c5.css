@@ -1,0 +1,21 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: white;
+}
+.div1{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.div2{
+    position: absolute;
+    left: 45vw;
+    top: 200px;
+}
+.div3{
+    position: absolute;
+    left: 0px;
+    top: 400px;
+}

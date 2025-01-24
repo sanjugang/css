@@ -1,0 +1,35 @@
+div{
+    height: 200px;
+    width: 200px;
+    color: white;
+}
+.div1{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-color: black;
+}
+.div2{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    background-color: grey;
+}
+.div3{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    background-color: black;
+}
+.div4{
+    position: absolute;
+    left: 300px;
+    top: 300px;
+    background-color: grey;
+}
+.div5{
+    position: absolute;
+    left: 400px;
+    top: 400px;
+    background-color: black;
+}
